@@ -118,27 +118,27 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DatesDescription" xml:space="preserve">
-    <value>Ici, vous pouvez vérifier les dates dans 4 formats :</value>
+    <value>Тут ви можете перевірити дати в 4 форматах:</value>
   </data>
   <data name="Greeting" xml:space="preserve">
-    <value>Bonjour! Voir les informations ci-dessous.</value>
+    <value>Вітаємо! Перегляньте інформацію нижче.</value>
   </data>
   <data name="HeightMeasurment" xml:space="preserve">
-    <value>centimètres</value>
+    <value>сантиметрів</value>
   </data>
   <data name="NumbersDescription" xml:space="preserve">
-    <value>Ici, vous pouvez vérifier les numéros dans 4 formats :</value>
+    <value>Тут ви можете перевірити числа в 4 форматах:</value>
   </data>
   <data name="Title" xml:space="preserve">
-    <value>Localisation</value>
+    <value>Локалізація</value>
   </data>
   <data name="UnitsDescription" xml:space="preserve">
-    <value>Ici, vous pouvez vérifier les unités dans 3 formats :</value>
+    <value>Тут ви можете перевірити юніти в 3 форматах:</value>
   </data>
   <data name="VolumeMeasurment" xml:space="preserve">
-    <value>litres</value>
+    <value>літрів</value>
   </data>
   <data name="WeightMeasurement" xml:space="preserve">
-    <value>kilogrammes</value>
+    <value>кілограм</value>
   </data>
 </root>
